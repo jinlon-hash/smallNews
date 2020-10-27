@@ -1,0 +1,22 @@
+.aaa {
+  color: #fff;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #009688;
+  line-height: 40px;
+  text-align: center;
+  margin-right: 10px;
+}
+span.welcome {
+  color: #fff;
+}
+.userInfo {
+  height: 60px;
+  line-height: 60px;
+  padding-left: 25px;
+}
+.fenzhi dd {
+  padding: 0 20px;
+}
